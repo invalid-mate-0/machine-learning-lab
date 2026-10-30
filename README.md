@@ -266,9 +266,7 @@ This repo grows best as a shared notebook, not a solo grind — PRs, issue repor
 - 📊 Add a new dataset walkthrough
 - ✍️ Improve math derivations or add missing docstrings
 
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=lokeshboddu006/ML-Algorithms-Models-and-Training-" alt="Contributors" />
-</p>
+
 
 ```text
    __  __ _        _                      _ _   _                     
